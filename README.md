@@ -10,7 +10,7 @@ A responsive weather website that gives the weather of your current location on 
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/[username]/weather-app.git`
+1. Clone the repository: `git clone https://github.com/MohitGupta12/weather-app.git`
 2. Install dependencies: `npm install` or `yarn install`
 3. Create a new OpenWeather API key from https://openweathermap.org/api
 4. Create a new OpenCage API key from https://opencagedata.com/api
